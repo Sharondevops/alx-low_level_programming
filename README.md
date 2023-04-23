@@ -1,4 +1,4 @@
-# Hello World
+# Hello World :heart_decoration:
 
 This project contains introductory __C__ related tasks.
 
