@@ -1,1 +1,1 @@
-# Repositories for all C programming conceps and practice
+# Repositories for all C programming concepts and practices
